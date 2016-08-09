@@ -1,0 +1,1 @@
+# Doug the Robot images
