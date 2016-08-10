@@ -1,4 +1,4 @@
-//Original file created by "Mr. Joseph Joe R. Dukes" <joedukes@gmail.com> around April 2014.
+//Original file created by "Mr. Joseph Joe R. Dukes" <joedukes@gmail.com> around April 2013.
 //This is the library for the IR sensor, it can be found at https://code.google.com/p/gp2y0a21yk-library/
 #include <DistanceGP2Y0A21YK.h>
 //This is the library for the ping sensor, it can be found at https://code.google.com/p/arduino-new-ping/
