@@ -1,7 +1,0 @@
-Working on Doug in Kali Linux
-
-Load a Kali disc into one of the IUS computers and restart.
-Select the first option to run the OS from the disc.
-Under Applications go to Electronics and run Arduino IDE.
-The Arduino files will be located at: computer/file system/usr/share/arduino
-Plug in the USB cable to Doug and code away!
